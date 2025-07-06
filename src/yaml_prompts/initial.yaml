@@ -1,0 +1,9 @@
+task: generate_unit_tests
+framework: gtest
+requirements:
+  - No duplicate tests
+  - Add all necessary #include statements
+  - Use Google Test best practices
+  - One test file per input file
+  - Format code strictly
+  - Maximize code coverage

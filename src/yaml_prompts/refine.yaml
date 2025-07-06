@@ -1,0 +1,7 @@
+task: refine_unit_tests
+requirements:
+  - Remove duplicate or redundant tests
+  - Add missing includes or libraries
+  - Improve test coverage and formatting
+  - No test should be repeated
+  - Use Google Test idioms
