@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
+
 develop-eggs/
 dist/
 downloads/
@@ -45,7 +45,7 @@ ehthumbs.db
 Thumbs.db
 
 # Build artifacts
-build/
+
 generated_tests/
 *.o
 *.obj
