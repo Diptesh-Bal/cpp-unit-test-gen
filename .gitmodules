@@ -1,0 +1,3 @@
+[submodule "test_projects"]
+	path = test_projects
+	url = https://github.com/keploy/orgChartApi.git
