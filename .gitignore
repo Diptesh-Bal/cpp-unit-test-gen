@@ -46,7 +46,7 @@ Thumbs.db
 
 # Build artifacts
 
-generated_tests/
+
 *.o
 *.obj
 *.exe
